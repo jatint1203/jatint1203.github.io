@@ -4,7 +4,7 @@ This is a personal portfolio website created using Next.js, ShadCN UI, and Tailw
 
 ## Demo
 
-You can view the live site [here](https://ssahibsingh.github.io/)
+You can view the live site [here](https://jatint1203.github.io/)
 
 ## 🛠️ Built With
 
@@ -22,7 +22,7 @@ You can view the live site [here](https://ssahibsingh.github.io/)
 Fork the repository. then clone the repo locally by doing -
 
 ```bash
-git clone https://github.com/ssahibsingh/ssahibsingh.github.io.git
+git clone https://github.com/jatint1203/jatint1203.github.io.git
 ```
 
 ### Step 2: Install Dependencies
@@ -30,7 +30,7 @@ git clone https://github.com/ssahibsingh/ssahibsingh.github.io.git
 cd into the directory
 
 ```bash
-cd ssahibsingh.github.io
+cd jatint1203.github.io
 ```
 
 install all the dependencies
@@ -48,4 +48,4 @@ After running the development server the site should be running on https://local
 
 ## 🗨️ Feedback
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+If you have any feedback, please reach out to me [here](https://jatint1203.github.io/#contact)
